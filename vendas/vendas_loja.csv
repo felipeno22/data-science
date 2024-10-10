@@ -1,0 +1,101 @@
+ID Venda,Data Venda,ID Funcionário,Categoria,Produto,Quantidade,Preço Unitário,Total da Venda
+V001,2024-09-30,F050,criança,Camiseta,3,90.44,271.32
+V002,2024-10-08,F006,criança,Camiseta,3,16.55,49.650000000000006
+V003,2024-10-08,F018,criança,Bermuda,5,26.92,134.60000000000002
+V004,2024-09-27,F042,criança,Calça Infantil,4,99.21,396.84
+V005,2024-10-01,F012,adulto,Calça,2,30.62,61.24
+V006,2024-09-13,F021,criança,Casaco Infantil,2,92.53,185.06
+V007,2024-10-08,F046,criança,Calça Infantil,1,46.41,46.41
+V008,2024-09-23,F038,adulto,Camisa,1,57.35,57.35
+V009,2024-10-02,F039,criança,Vestido Infantil,3,38.88,116.64000000000001
+V010,2024-09-22,F022,adulto,Vestido,4,97.56,390.24
+V011,2024-09-22,F047,criança,Vestido Infantil,3,48.61,145.82999999999998
+V012,2024-09-14,F006,adulto,Jaqueta,1,62.65,62.65
+V013,2024-09-22,F046,criança,Bermuda,1,86.82,86.82
+V014,2024-09-16,F036,criança,Calça Infantil,1,93.63,93.63
+V015,2024-10-05,F001,adulto,Calça,1,78.8,78.8
+V016,2024-10-10,F049,adulto,Vestido,5,66.77,333.84999999999997
+V017,2024-09-25,F029,adulto,Camisa,4,85.33,341.32
+V018,2024-10-07,F003,criança,Vestido Infantil,4,30.26,121.04
+V019,2024-10-06,F027,criança,Casaco Infantil,5,15.8,79.0
+V020,2024-10-02,F007,criança,Vestido Infantil,5,52.92,264.6
+V021,2024-09-25,F042,adulto,Jaqueta,4,45.68,182.72
+V022,2024-09-10,F019,adulto,Jaqueta,1,88.28,88.28
+V023,2024-10-05,F002,adulto,Calça,1,24.75,24.75
+V024,2024-09-16,F037,criança,Casaco Infantil,4,63.0,252.0
+V025,2024-10-04,F012,criança,Camiseta,1,69.77,69.77
+V026,2024-09-13,F018,criança,Camiseta,1,94.41,94.41
+V027,2024-09-18,F047,adulto,Camisa,4,16.24,64.96
+V028,2024-09-16,F016,criança,Calça Infantil,5,39.36,196.8
+V029,2024-09-23,F013,criança,Camiseta,1,21.19,21.19
+V030,2024-09-14,F017,adulto,Jaqueta,4,95.79,383.16
+V031,2024-09-18,F025,adulto,Vestido,5,46.03,230.15
+V032,2024-09-15,F025,adulto,Camisa,4,42.52,170.08
+V033,2024-09-22,F022,criança,Bermuda,1,11.53,11.53
+V034,2024-10-09,F001,adulto,Saia,5,49.73,248.64999999999998
+V035,2024-09-19,F041,criança,Vestido Infantil,3,80.15,240.45000000000002
+V036,2024-09-27,F020,criança,Calça Infantil,3,75.58,226.74
+V037,2024-09-18,F015,criança,Vestido Infantil,1,60.06,60.06
+V038,2024-10-02,F035,criança,Camiseta,5,19.41,97.05
+V039,2024-09-27,F003,criança,Calça Infantil,1,85.27,85.27
+V040,2024-10-01,F039,adulto,Calça,1,90.98,90.98
+V041,2024-09-18,F016,criança,Camiseta,3,60.56,181.68
+V042,2024-09-10,F018,adulto,Saia,4,62.61,250.44
+V043,2024-10-06,F002,adulto,Camisa,3,91.67,275.01
+V044,2024-10-05,F040,criança,Bermuda,5,91.3,456.5
+V045,2024-10-08,F008,adulto,Jaqueta,4,76.4,305.6
+V046,2024-09-18,F007,criança,Bermuda,3,90.74,272.21999999999997
+V047,2024-09-24,F048,criança,Calça Infantil,1,22.42,22.42
+V048,2024-10-04,F024,criança,Calça Infantil,3,36.38,109.14000000000001
+V049,2024-10-06,F006,adulto,Calça,4,93.99,375.96
+V050,2024-10-10,F035,adulto,Vestido,2,29.72,59.44
+V051,2024-09-22,F006,criança,Calça Infantil,1,55.47,55.47
+V052,2024-10-09,F002,criança,Casaco Infantil,4,27.42,109.68
+V053,2024-09-29,F043,criança,Camiseta,5,21.41,107.05
+V054,2024-09-15,F018,criança,Vestido Infantil,5,72.74,363.7
+V055,2024-10-01,F045,adulto,Calça,2,64.99,129.98
+V056,2024-09-15,F005,criança,Camiseta,5,38.44,192.2
+V057,2024-09-14,F028,adulto,Camisa,2,66.36,132.72
+V058,2024-10-07,F035,criança,Vestido Infantil,5,33.06,165.3
+V059,2024-09-12,F033,criança,Vestido Infantil,3,93.02,279.06
+V060,2024-09-22,F016,adulto,Jaqueta,4,21.74,86.96
+V061,2024-09-13,F026,criança,Bermuda,2,91.37,182.74
+V062,2024-10-01,F022,adulto,Saia,1,40.4,40.4
+V063,2024-09-23,F047,adulto,Saia,4,76.44,305.76
+V064,2024-10-05,F048,adulto,Saia,3,17.38,52.14
+V065,2024-10-09,F017,criança,Vestido Infantil,2,92.8,185.6
+V066,2024-09-26,F025,adulto,Vestido,2,76.13,152.26
+V067,2024-09-25,F014,adulto,Jaqueta,1,94.09,94.09
+V068,2024-10-04,F048,adulto,Calça,5,99.99,499.95
+V069,2024-09-18,F030,criança,Vestido Infantil,1,17.03,17.03
+V070,2024-09-10,F006,criança,Casaco Infantil,3,15.39,46.17
+V071,2024-10-09,F022,criança,Calça Infantil,2,29.22,58.44
+V072,2024-09-14,F018,criança,Camiseta,4,28.96,115.84
+V073,2024-10-08,F005,adulto,Saia,4,14.45,57.8
+V074,2024-10-08,F026,criança,Casaco Infantil,1,15.78,15.78
+V075,2024-09-27,F031,adulto,Calça,4,75.89,303.56
+V076,2024-10-08,F037,adulto,Calça,2,25.7,51.4
+V077,2024-09-25,F022,adulto,Camisa,3,34.04,102.12
+V078,2024-09-25,F027,adulto,Jaqueta,2,47.78,95.56
+V079,2024-09-15,F002,criança,Bermuda,4,16.1,64.4
+V080,2024-09-30,F039,adulto,Calça,1,78.47,78.47
+V081,2024-10-04,F045,adulto,Vestido,1,85.88,85.88
+V082,2024-09-16,F035,criança,Casaco Infantil,2,94.72,189.44
+V083,2024-09-25,F011,adulto,Camisa,1,65.78,65.78
+V084,2024-09-27,F002,criança,Camiseta,5,63.8,319.0
+V085,2024-09-27,F018,adulto,Saia,2,54.55,109.1
+V086,2024-09-10,F027,adulto,Calça,1,68.14,68.14
+V087,2024-09-19,F021,criança,Bermuda,1,29.96,29.96
+V088,2024-09-22,F009,adulto,Vestido,1,30.72,30.72
+V089,2024-09-10,F008,adulto,Jaqueta,3,65.44,196.32
+V090,2024-10-07,F017,criança,Casaco Infantil,5,21.83,109.14999999999999
+V091,2024-10-09,F012,criança,Calça Infantil,3,66.74,200.21999999999997
+V092,2024-09-27,F007,adulto,Jaqueta,2,60.11,120.22
+V093,2024-09-25,F035,criança,Vestido Infantil,4,13.61,54.44
+V094,2024-09-16,F019,adulto,Calça,1,44.25,44.25
+V095,2024-09-18,F014,criança,Calça Infantil,4,92.41,369.64
+V096,2024-09-16,F012,criança,Calça Infantil,1,59.5,59.5
+V097,2024-10-05,F049,adulto,Calça,4,90.17,360.68
+V098,2024-09-22,F036,adulto,Camisa,2,32.41,64.82
+V099,2024-10-08,F006,adulto,Vestido,1,65.62,65.62
+V100,2024-10-04,F019,adulto,Camisa,2,15.12,30.24
